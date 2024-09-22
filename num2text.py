@@ -1,6 +1,5 @@
 from num2words import num2words
 
-
 def numero_por_extenso(valor):
     # Separa reais e centavos
     reais = int(valor)
